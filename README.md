@@ -1,2 +1,2 @@
-# travelbook
-A social network for travelers to connect
+# The ASEAN Social Network
+A social network for ASEAN
